@@ -1,0 +1,14 @@
+node_modules/*
+.idea/
+*.log
+index_build.js
+
+.env.json
+.idea
+.nyc_output
+/dist/*
+/node_modules
+/public/*
+/logs/*
+/tmp/*
+.DS_Store

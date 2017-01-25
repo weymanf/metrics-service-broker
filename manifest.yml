@@ -1,0 +1,5 @@
+---
+applications:
+  - name: metrics-service-broker
+    buildpack: nodejs_buildpack
+    command: npm start
